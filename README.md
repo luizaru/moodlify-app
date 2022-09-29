@@ -45,12 +45,8 @@ Main technologies used:
 
 Additional libraries:
 
-- [React Redux Firebase](http://react-redux-firebase.com/)
 - [React Router](https://reactrouter.com/)
-- [React-Bootstrap](https://react-bootstrap.github.io/)
 - [Styled-Components](https://styled-components.com/)
-- [React Tag Input](https://www.npmjs.com/package/react-tag-input)
-- [Chart.js](https://www.chartjs.org/docs/latest/)
 
 Misc. resources:
 
