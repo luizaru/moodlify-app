@@ -1,7 +1,5 @@
 # Moodlify A Single Page Web Application that supports students with their day to day mental health 
 
-#### Luiza Rusinova - Student ID: 15302148
-
 #### _Table of Contents_
 
 1. [Introduction](#introduction)
